@@ -60,6 +60,7 @@
 
 .home__img {
     background: url(../../assets/profil.jpg);
+    border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
